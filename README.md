@@ -17,8 +17,10 @@
 <li>Training and Evaluation: Consists of distinct modules for both model training and assessment.</li>
 <li>Visualizations: Code for displaying model performance metrics and example photos is included here.</li></ul>
 
-<b>How to Run:</b>Refer to the directions in the corresponding README files inside each folder/module for information on how to launch the project.
+<b>How to Run:<ul><li></b>Refer to the directions in the corresponding README files inside each folder/module for information on how to launch the project.
 
-<b>Additional Notes:</b>This work is an experiment in applying standard architectures and frameworks to deep learning models for picture categorization problems.
+<b>Additional Notes:</b>This work is an experiment in applying standard architectures and frameworks to deep learning models for picture categorization problems.</li>
+<li>how to run it: Use the file DeepLEarning.ipynb
+</ul>
 
 <b>data source, and how you downloaded it:</b> The project's picture collection, known as CIFAR-10, has 60,000 32x32 color photos from ten distinct classes. Machine learning models are frequently trained and tested using these photos. We used the torchvision Python module to retrieve the CIFAR-10 dataset. During program execution, our code downloads the dataset dynamically from the official torchvision source if it isn't already in the designated location. With the use of picture analysis and this dataset, our computer software is able to pick up and identify a wide range of items, including vehicles, planes, birds, cats, and more.
