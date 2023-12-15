@@ -20,7 +20,7 @@
 <b>How to Run:<ul><li></b>Refer to the directions in the corresponding README files inside each folder/module for information on how to launch the project.
 
 </li>
-<li>how to run it: Use the file DeepLEarning.ipynb</li>
+<li>how to run it: Use the file First Milestone.ipynb</li>
 </ul>
 
 <b>Additional Notes:</b>This work is an experiment in applying standard architectures and frameworks to deep learning models for picture categorization problems.
