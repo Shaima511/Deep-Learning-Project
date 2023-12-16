@@ -1,0 +1,17 @@
+# Use the official PyTorch base image
+FROM pytorch/pytorch:latest
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the Python script into the container
+COPY your_script.py /app/your_script.py
+
+# Install required packages
+RUN pip install torch torchvision scikit-learn matplotlib pytorch-lightning
+
+# Set environment variables if needed
+# ENV VARIABLE_NAME=value
+
+# Command to run your Python script
+CMD ["python", "Milestone2.ipynb"]
