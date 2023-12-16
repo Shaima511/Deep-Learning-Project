@@ -20,7 +20,8 @@
 <b>How to Run:<ul><li></b>Refer to the directions in the corresponding README files inside each folder/module for information on how to launch the project.
 
 </li>
-<li>how to run it: Use the file First Milestone.ipynb</li>
+<li>how to run it:<ul> <li>Use the file 'First Milestone.ipynb'</li> <li>To run for the training & evaluation 'Milestone2.ipynb'  </ul>
+</li>
 </ul>
 
 <b>Additional Notes:</b>This work is an experiment in applying standard architectures and frameworks to deep learning models for picture categorization problems.
@@ -30,6 +31,7 @@
 <b>Software Environment:</b>
 <ul>
 <li>Requirements: Check necessary packages and versions in 'requirement.txt'.</li>
-<li>Dockerfile:  Visut the docker within this project
-
+<li>Dockerfile:  Visut the docker within this project path : ".github/workflows/Docker.yml"</li>
+</ul>
+ 
 
