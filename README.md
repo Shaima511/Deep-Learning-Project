@@ -1,5 +1,7 @@
-# Deep-Learning-Project
+# Image classification using pretrained convolutional networks
 <b>Student Name:</b> Shaima Al Balushi
+
+<b>Project Description: </b> The objective of this project is to illustrate and contrast the benefits of employing pretrained neural networks against randomly initialized ones for the task of image classification. This involves constructing an image classification pipeline tailored to a smaller dataset (such as CIFAR-10) and training both a randomly initialized neural network and an ImageNet-pretrained model (like ResNet) for this purpose. The project aims to comprehensively analyze and compare the performance of these models.
 
 <b>Overview:</b> Using the CIFAR-10 dataset, this project attempts to investigate and use deep learning models for image categorization. The CIFAR-10 dataset is a perfect baseline for evaluating different convolutional neural network (CNN) designs since it contains 60,000 32x32 color pictures in 10 distinct classifications.
 
