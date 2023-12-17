@@ -35,5 +35,8 @@
 <li>Requirements: Check necessary packages and versions in 'requirement.txt'.</li>
 <li>Dockerfile:  Visut the docker within this project path : ".github/workflows/Docker.yml"</li>
 </ul>
+
+<b>Documentation:</b>
+Documetation is provided as a report in pdf form within this URL: Image classification using pretrained convolutional networks.pdf
  
 
